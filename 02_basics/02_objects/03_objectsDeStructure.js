@@ -26,4 +26,11 @@ console.log(instructor);
 // }
 
 // 2. Array
-[{}, {}, {}, {}];
+// [
+//   {},
+//   {},
+//   {},
+//   {}
+// ];
+
+// 3. https://randomuser.me/  and copy the response, After that paste that response in json formater
